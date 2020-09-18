@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 341a7894878f604418c2345780ea3f3a, type: 3}
+  m_Name: CardConfig
+  m_EditorClassIdentifier: 
+  DisabledAlpha: 0.5
+  HoverHeight: 0.6
+  HoverRotation: 0
+  HoverScale: 1.3
+  HoverSpeed: 15
+  Height: 0.1
+  Spacing: -1.8
+  BentAngle: -20
+  RotationSpeed: 20
+  MovementSpeed: 4
+  ScaleSpeed: 7
+  StartSizeWhenDraw: 0.05
+  DiscardedSize: 0.5

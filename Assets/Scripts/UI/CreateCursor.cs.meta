@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0a4f106acf8085b4a8477a845db5007b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - PrefabCursor: {fileID: 2506870377142258603, guid: b22f5139bb846744a8f7bd6e73150de9,
+      type: 3}
+  - gameCursor: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
